@@ -1,7 +1,7 @@
 # Natours 🚵‍♂️
 One of Projects of Advance CSS and SASS Course from Jonas Schmedtmann,  😀
 
-( This Project is actually Build by Jonas Schmedtmann, I only make this project with him in Course to learn Advance CSS and SASS  )
+(This Project is actually Build by Jonas Schmedtmann, I only make this project with him in Course to learn Advance CSS and SASS)
 
 ![image](https://media.graphcms.com/Zllxu3SOKAieOCW7Vgpb)
 
